@@ -1,113 +1,130 @@
-FATEHA MOMEN 
+# Software Developer | IT Infrastructure
 
-Entry-Level Full Stack Developer 
 
-Hamilton, New Zealand  |  020 417 88188  |  fatehamomen85@gmail.com 
 
-github.com/fatehamomen85-lang 
+Software developer with practical experience building full-stack applications, REST APIs, and database-driven systems. Developing strong technical skills across software development, IT infrastructure, networking, systems administration, and enterprise technologies.
 
-Professional Profile 
+## Professional Focus
 
-Entry-level Full Stack Developer with hands-on training through the Mission Ready Full Stack Developer programme. Experienced building frontend and backend applications using JavaScript, React, Node.js, Express.js, REST APIs and MongoDB. Completed multiple projects involving AI-powered applications, test-driven development, API development, NoSQL databases and collaborative full-stack work. Comfortable learning new technologies, troubleshooting technical problems and working as part of a development team. Seeking an entry-level or junior software development role where I can apply my skills, continue learning and contribute to real-world projects. 
+* Software Development
+* Full-Stack Web Development
+* Backend & REST API Development
+* Database Systems
+* IT Infrastructure
+* Systems Administration
+* Networking
+* Cybersecurity
 
-Technical Skills 
+## Technical Skills
 
-Frontend:  JavaScript, React, React Router, HTML, CSS, Responsive Web Development 
+### Software Development
+`JavaScript` · `React` · `Node.js` · `Express.js` · `HTML` · `CSS`
 
-Backend:  Node.js, Express.js, REST APIs, API Integration, Server-side Development 
+### Backend & Databases
+`REST APIs` · `MongoDB` · `Mongoose` · `CRUD` · `Database Design` · `API Testing`
 
-Databases:  MongoDB, Mongoose, NoSQL Concepts, Database Seeding & Querying 
+### IT Infrastructure & Networking
+`Windows Server` · `Active Directory` · `DNS` · `DHCP` · `TCP/IP` · `Linux` · `VMware`
 
-Practices & Tools:  Test-Driven Development (TDD), Git, GitHub, Agile/Team Development, Debugging, Project Planning 
+### Development Tools
+`Git` · `GitHub` · `VS Code` · `Postman` · `Command Line`
 
-AI & Emerging Tech:  Generative AI Applications, AI Solution Prototyping 
+---
 
-Software Development Projects 
+## Featured Projects
 
-Z Energy Station Locator  |  Mission Ready – Mission 5 Phase 2 
+### Z Gas Station Locator
 
-Technologies: React, JavaScript, Node.js, Express.js, MongoDB, Mongoose, REST API, MapLibre 
+**React · Node.js · Express · MongoDB · MapLibre**
 
-Collaborated in a development team to build a full-stack Z Energy station locator application. 
+Full-stack web application for locating and viewing fuel stations.
 
-Developed a station detail screen using React and React Router 
+**Key contributions**
 
-Integrated frontend with backend station data via REST API endpoints and MongoDB 
+* Developed station detail functionality
+* Integrated frontend components with backend REST APIs
+* Retrieved station data from MongoDB
+* Implemented dynamic station routing
+* Worked with geospatial station data
+* Integrated interactive map functionality
+* Implemented station-specific directions
 
-Implemented directions functionality using station location data 
 
-Owned designated frontend and backend features; troubleshot routing, API and React issues 
+---
 
-TradeMe User Feedback API  |  Mission Ready – Mission 5 Phase 1 
+### Mission 5 — Auction REST API
+**Node.js · Express · MongoDB · Mongoose**
 
-Technologies: Node.js, Express.js, MongoDB, Mongoose, REST API 
+Backend API developed as part of a Level 5 software development project.
+**Key contributions**
+* Designed MongoDB data structures
+* Developed Mongoose models
+* Implemented REST API endpoints
+* Implemented CRUD operations
+* Created and managed seed data
+* Implemented keyword search using regular expressions
+* Tested API endpoints
+* Implemented error handling
 
-Developed a minimal API and NoSQL database solution based on TradeMe user feedback about overloaded product pages. 
 
-Built backend API with Node.js and Express.js; modelled data with Mongoose and MongoDB 
 
-Implemented auction data endpoints, database seeding and search using MongoDB regular expressions 
+---
 
-Practised API testing, debugging and understanding frontend–backend communication 
+### IT Infrastructure Labs
+**Areas of study**
 
-Insurance Recommendation Application  |  Mission Ready – Mission 4 
+* DNS configuration and troubleshooting
+* DHCP
+* TCP/IP networking
+* Windows administration
+* Linux administration
+* Active Directory
+* Network troubleshooting
+* Enterprise infrastructure
 
-Focus: Generative AI application development 
 
-Designed and developed an application using Generative AI to provide personalised insurance recommendations 
 
-Applied user requirements analysis and explored practical AI-powered software concepts 
+---
 
-Mock Job Interview Application  |  Mission Ready – Mission 3 
+## Current Development
+Currently expanding practical knowledge in:
 
-Focus: Generative AI application development 
+* Windows Server administration
+* Active Directory & Group Policy
+* DNS & DHCP
+* Linux administration
+* Networking
+* TCP/IP
+* VMware
+* System administration
+* Infrastructure automation
+* PowerShell
+* Bash
+* Cybersecurity fundamentals
+* Enterprise IT systems
 
-Built a mock job interview application using Generative AI for interactive interview practice 
+---
 
-Designed around a practical user problem and applied software development and problem-solving skills 
+## Education
 
-Turners Car Insurance – Test-Driven Development  |  Mission Ready – Mission 2 
+**Level 5 — Advanced Software Development**
 
-Focus: Test-Driven Development (TDD) 
 
-Applied TDD principles by writing tests before implementation to improve code quality and reliability 
 
-Used testing to identify and resolve issues; strengthened understanding of maintainable code 
+---
 
-Turners Car Insurance – AI Solution Prototype  |  Mission Ready – Mission 1 
+## Development Approach
 
-Focus: AI solution prototyping 
+I focus on building practical projects, understanding how systems work, troubleshooting technical problems, and continuously improving my development and infrastructure skills.
 
-Analysed a real-world insurance business problem and designed an AI-based solution prototype 
+**Learn → Build → Test → Troubleshoot → Document → Improve**
 
-Practised communicating technical ideas in a way that connects technology with user needs 
+---
 
-Education & Training 
+## Contact
 
-Full Stack Developer (Level 4 & Level 5)	2026 
+**LinkedIn:** [https://www.linkedin.com/in/fateha-momen-181aaa145/?isSelfProfile=true]
 
-Mission Ready HQ, New Zealand 
+**Email:** [fatehamomen85@gmail.com]
 
-Hands-on training in modern full-stack development: frontend, backend, APIs, databases, software testing, Git/GitHub, AI applications and collaborative projects. 
 
-Level 7 Information Technology and Management	2017 
-
-Cornell 
-
-Level 4 Computing	2015 
-
-NTEC, New Zealand 
-
-Collaborative Development 
-
-Worked on software projects as part of a development team with shared planning and delivery 
-
-Owned designated frontend and backend functionality within team projects 
-
-Practised communicating technical problems and solutions with teammates 
-
-Developed ability to learn independently and troubleshoot unfamiliar technical issues 
-
-Career Objective 
-
-Seeking an entry-level or junior Software Developer / Full Stack Developer position where I can contribute to real-world applications, strengthen my development skills and continue growing as a professional software developer. Open to opportunities in Hamilton or remote.
