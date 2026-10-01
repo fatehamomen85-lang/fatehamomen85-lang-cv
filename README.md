@@ -116,4 +116,3 @@ I focus on building practical projects, understanding how systems work, troubles
 **Learn → Build → Test → Troubleshoot → Document → Improve**
 
 
-**Email:** [fatehamomen85@gmail.com](mailto:fatehamomen85@gmail.com)
