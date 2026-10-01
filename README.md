@@ -1,6 +1,4 @@
-Fateha Momen
-
-
+# Fateha Momen
 
 Software developer with practical experience building full-stack applications, REST APIs, and database-driven systems. Developing strong technical skills across software development, IT infrastructure, networking, systems administration, and enterprise technologies.
 
@@ -18,15 +16,19 @@ Software developer with practical experience building full-stack applications, R
 ## Technical Skills
 
 ### Software Development
+
 `JavaScript` · `React` · `Node.js` · `Express.js` · `HTML` · `CSS`
 
 ### Backend & Databases
+
 `REST APIs` · `MongoDB` · `Mongoose` · `CRUD` · `Database Design` · `API Testing`
 
 ### IT Infrastructure & Networking
+
 `Windows Server` · `Active Directory` · `DNS` · `DHCP` · `TCP/IP` · `Linux` · `VMware`
 
 ### Development Tools
+
 `Git` · `GitHub` · `VS Code` · `Postman` · `Command Line`
 
 ---
@@ -49,14 +51,14 @@ Full-stack web application for locating and viewing fuel stations.
 * Integrated interactive map functionality
 * Implemented station-specific directions
 
-
----
-
 ### Mission 5 — Auction REST API
+
 **Node.js · Express · MongoDB · Mongoose**
 
 Backend API developed as part of a Level 5 software development project.
+
 **Key contributions**
+
 * Designed MongoDB data structures
 * Developed Mongoose models
 * Implemented REST API endpoints
@@ -66,11 +68,8 @@ Backend API developed as part of a Level 5 software development project.
 * Tested API endpoints
 * Implemented error handling
 
-
-
----
-
 ### IT Infrastructure Labs
+
 **Areas of study**
 
 * DNS configuration and troubleshooting
@@ -82,11 +81,10 @@ Backend API developed as part of a Level 5 software development project.
 * Network troubleshooting
 * Enterprise infrastructure
 
-
-
 ---
 
 ## Current Development
+
 Currently expanding practical knowledge in:
 
 * Windows Server administration
@@ -109,8 +107,6 @@ Currently expanding practical knowledge in:
 
 **Level 5 — Advanced Software Development**
 
-
-
 ---
 
 ## Development Approach
@@ -119,12 +115,5 @@ I focus on building practical projects, understanding how systems work, troubles
 
 **Learn → Build → Test → Troubleshoot → Document → Improve**
 
----
 
-## Contact
-
-**LinkedIn:** [https://www.linkedin.com/in/fateha-momen-181aaa145/?isSelfProfile=true]
-
-**Email:** [fatehamomen85@gmail.com]
-
-
+**Email:** [fatehamomen85@gmail.com](mailto:fatehamomen85@gmail.com)
